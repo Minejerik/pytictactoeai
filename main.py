@@ -40,7 +40,7 @@ def findnext(input):
 		return [5,7,9]
 	elif input == 9:
 		return [5,6,8]
-
+#bruhbama
 def runai():
 	tempa = []
 	otherplayer = 'X'
